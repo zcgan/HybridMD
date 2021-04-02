@@ -1,0 +1,46 @@
+****System_SetUp*******
+N_Particles 3
+N_Types 3
+N_Colloids 2
+N_Ions 1
+N_Colloid1 1
+N_Colloid2 1
+N_Ion1 1
+N_Ion2 0
+Colloid_Charge1 1
+Colloid_Charge2 -1
+Ion_Charge1 0
+Ion_Charge2 0
+Colloid_Radius1 1
+Colloid_Radius2 1
+Ion_Radius 0.2
+clj/2 0.2
+Colloid_Dielectric1 2.64
+Colloid_Dielectric2 2.64
+Solvent_Dielectric 1.0
+Colloid_Mass1 1.0
+Colloid_Mass2 1.0
+Ion_Mass 1.0
+Inner_Shell_Charge 0.0
+Inner_Shell_Radius 0.0
+Inner_Shell_Dielectric 1.0
+Outer_Shell_Radius 10.699121
+Temperature 1.0
+****Simulation_SetUp*******
+Initial_Timestep 0.00001
+Final_Timestep 0.001
+Timestep_IncreaseInterval 10000
+Velocity_RescaleInterval 5
+Langevin_gamma 1.0
+Langevin_EquilibrationSteps 10000
+N_lowtemp_for_annealing 10000
+N_hightemp_for_annealing 10000
+N_annealing_cycle 10
+Temprature_annealing 100.0
+Production_TimeSteps 20000
+Sample_Interval 100
+RDF_Binsize 0.03
+precision_digits 6
+Read_ConfigFile 0
+config.txt
+
