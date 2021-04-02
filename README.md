@@ -21,11 +21,11 @@ Please refer to the following references for more background:
 
 
 ## Build Instructions
-TBD
+TBA
 
 ## Examples
 
-TBD
+TBA
 
 ## License
 Released under the GNU General Public License v3.0.
