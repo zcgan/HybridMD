@@ -28,7 +28,7 @@ TBD
 TBD
 
 ## License
-Released under the [3-Clause BSD License](LICENSE.md).
+Released under the GNU General Public License v3.0.
 
 
 ## Disclaimer
